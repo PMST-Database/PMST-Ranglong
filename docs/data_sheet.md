@@ -1,9 +1,3 @@
-﻿---
-editor_options: 
-  markdown: 
-    wrap: sentence
----
-
 Data set name: PMST Ranglong
 
 Data set developer(s): Hunter L. Brown, Sandra Auderset
@@ -49,31 +43,19 @@ For Ranglong, it is a version of the community orthography used by speakers.
 
 -   Number of inflected forms per paradigm and subparadigm:
 
-    +----------+----+----------------+----+
-    | Paradigm | n  | Tags           | n  |
-    +==========+===:+================+===:+
-    | Pronouns | 6  | default        | 6  |
-    +----------+----+----------------+----+
-    | NFUT.AFF | 50 | default        | 34 |
-    |          |    |                |    |
-    |          |    | opt.pl         | 16 |
-    +----------+----+----------------+----+
-    | NFUT.NEG | 58 | default        | 39 |
-    |          |    |                |    |
-    |          |    | opt.pl         | 19 |
-    +----------+----+----------------+----+
-    | FUT.AFF  | 91 | default        | 34 |
-    |          |    |                |    |
-    |          |    | pragm.m        | 26 |
-    |          |    |                |    |
-    |          |    | opt.pl         | 15 |
-    |          |    |                |    |
-    |          |    | pragm.m+opt.pl | 16 |
-    +----------+----+----------------+----+
-    | FUT.NEG  | 50 | default        | 34 |
-    |          |    |                |    |
-    |          |    | opt.pl         | 16 |
-    +----------+----+----------------+----+
+| Paradigm | n  | Tags           | n  |
+|----------|----|----------------|----|
+| Pronouns | 6  | default        | 6  |
+| NFUT.AFF | 50 | default        | 34 |
+|          |    | opt.pl         | 16 |
+| NFUT.NEG | 58 | default        | 39 |
+|          |    | opt.pl         | 19 |
+| FUT.AFF  | 91 | default        | 34 |
+|          |    | pragm.m        | 26 |
+|          |    | opt.pl         | 15 |
+|          |    | pragm.m+opt.pl | 16 |
+| FUT.NEG  | 50 | default        | 34 |
+|          |    | opt.pl         | 16 |
 
 **Language varieties**
 
