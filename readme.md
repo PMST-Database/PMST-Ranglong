@@ -3,7 +3,7 @@
 This PARALEX set contains person markers in Ranglong, including inflected verbal forms and pronouns. It constitutes part of the PMST (Person Marking in South-Central Trans-Himalayan) database.
 The PMST database is a collection of person forms from a broad sample of South-Central Trans-Himalayan languages collected with a common methodology and published as PARALEX sets. PMST sets can be used both for describing and analyzing language-internal distributions and for comparison of person forms.
 
-The general design principles of PMST are described in "Paper in JOHD". Files and columns are described here only where they deviate from the PARALEX standard.
+The general design principles of PMST are described in Auderset et al. (in prep; JOHD). Files and columns are described here only where they deviate from the PARALEX standard.
 For more details about the data, please consult the data_sheet.md in the docs folder.
 
 * PMST diverges most from the PARALEX standard and design principles in that the verb forms are abstract and do not contain a lexical verb stem. In its place, we use Σ
@@ -18,8 +18,5 @@ For more details about the data, please consult the data_sheet.md in the docs fo
 
 * Gaps: The future affirmative paradigm is defective for 2SG>1SG and 2SG>1PL forms. These cannot be elicited due to semantic/pragmatic issues.
 * Tone: Ranglong does not have phonemic tone.
-* Tags: 
-
-
 
 
